@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96687102-6060-44ed-bf41-f295987abfcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaewon/gitstudy/GitStudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jaewon/gitstudy/GitStudyApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="96687102-6060-44ed-bf41-f295987abfcb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +27,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -49,6 +54,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2fxQX49cN5gV0VKTzGOeaTHUgC8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
@@ -95,7 +103,7 @@
       <updated>1714740284760</updated>
       <workItem from="1714740285779" duration="164000" />
       <workItem from="1714740475610" duration="147000" />
-      <workItem from="1714740625485" duration="836000" />
+      <workItem from="1714740625485" duration="1146000" />
     </task>
     <servers />
   </component>
